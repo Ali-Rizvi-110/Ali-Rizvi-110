@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ali Rizvi</h1>
 <h3 align="center">I am a competitive programmer with excellent problem-solving skills and ability to perform well in a team, and passionate about web development.</h3>
 
-- 🌱 I’m currently learning **MERN stack.**
+- 🌱 I’m a **MERN stack.** Developer.
 
-- 💬 Ask me about **reactjs nodejs express etc..**
+- 💬 Ask me about **reactjs nodejs express mongodb sequelize etc..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
